@@ -2,7 +2,7 @@ package com.project.projectweb.resources;
 
 
 
-import entities.User;
+import com.project.projectweb.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,0 +1,8 @@
+package com.project.projectweb;
+
+import com.project.projectweb.entities.Product;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+public interface ProductRepository extends JpaRepository<Product, Long> {
+}

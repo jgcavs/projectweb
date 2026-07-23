@@ -1,8 +1,8 @@
-package com.project.projectweb;
+package com.project.projectweb.resources;
 
 
 
-import com.project.projectweb.entities.Category;
+import com.project.projectweb.services.CategoryService;
 import com.project.projectweb.entities.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

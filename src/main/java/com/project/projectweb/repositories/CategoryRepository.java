@@ -1,4 +1,4 @@
-package com.project.projectweb;
+package com.project.projectweb.repositories;
 
 import com.project.projectweb.entities.Category;
 import org.springframework.data.jpa.repository.JpaRepository;

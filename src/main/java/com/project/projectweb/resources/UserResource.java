@@ -2,7 +2,7 @@ package com.project.projectweb.resources;
 
 
 
-import com.project.projectweb.UserService;
+import com.project.projectweb.services.UserService;
 import com.project.projectweb.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

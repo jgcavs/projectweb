@@ -1,5 +1,6 @@
-package com.project.projectweb;
+package com.project.projectweb.services;
 
+import com.project.projectweb.repositories.CategoryRepository;
 import com.project.projectweb.entities.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

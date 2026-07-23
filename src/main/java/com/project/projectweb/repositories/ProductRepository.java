@@ -1,4 +1,4 @@
-package com.project.projectweb;
+package com.project.projectweb.repositories;
 
 import com.project.projectweb.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
